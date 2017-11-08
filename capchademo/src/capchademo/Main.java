@@ -7,6 +7,8 @@ import java.util.List;
 import java.util.Set;
 
 public class Main {
+	
+	// my changes
 
 	public static void main(String[] args) {
 		int [] intArray={1,2,3,2};            //2 is duplicate
